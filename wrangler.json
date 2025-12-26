@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "my-mcp-server",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "b0467d35-ed4a-4a83-ae02-084d908da509",
+			"database_name": "designfitout.workers.dev"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
